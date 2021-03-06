@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "fontGame";
+}
+
+.bookingMovie {
+  font-family: "fontGame";
+}
+
+.ghe {
+  border: 3px solid black;
+  width: 45px;
+  height: 35px;
+  font-size: 12px;
+  margin-left: 3%;
+  margin-bottom: 1%;
+  border-radius: 5px;
+}
+
+.rowNumber {
+  /* font-size: 25px; */
+  width: 45px;
+  height: 35px;
+  background: none;
+  border: none;
+
+  margin-left: 0px;
+  margin-bottom: 1%;
+  font-size: 30px;
+  color: black;
+  margin-right: 25px;
+  /* padding-right: 50px; */
+}
+.firstChar {
+  color: black;
+  font-size: 35px;
+  margin-right: 5px;
+}
+
+.gheDuocChon {
+  border: 3px solid orange;
+
+  background: orange;
+  color: #000;
+  cursor: no-drop !important;
+  border-radius: 5px;
+  width: 45px;
+  height: 35px;
+}
+
+.gheDangChon {
+  background: rgb(109, 238, 109);
+  border: 3px solid rgb(109, 238, 109);
+  color: #000;
+
+  cursor: pointer;
+  border-radius: 5px;
+  width: 45px;
+  height: 35px;
+}
+.tai-xe {
+  margin-left: -33rem;
+  margin-bottom: 1rem;
+}

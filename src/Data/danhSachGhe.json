@@ -1,0 +1,97 @@
+[{
+        "hang": "",
+        "danhSachGhe": [
+            { "soGhe": "1", "gia": 0 },
+            { "soGhe": "2", "gia": 0 },
+            { "soGhe": "3", "gia": 0 },
+            { "soGhe": "4", "gia": 0 }
+
+
+        ]
+    },
+    {
+      
+        "danhSachGhe": [
+            { "soGhe": "1", "gia": 100, "daDat": true },
+            { "soGhe": "2", "gia": 100, "daDat": false },
+            { "soGhe": "3", "gia": 100, "daDat": false },
+            { "soGhe": "4", "gia": 100, "daDat": false }
+
+        ]
+    },
+    {
+     
+        "danhSachGhe": [
+            { "soGhe": "5", "gia": 100, "daDat": false },
+            { "soGhe": "6", "gia": 100, "daDat": false },
+            { "soGhe": "7", "gia": 100, "daDat": false },
+            { "soGhe": "8", "gia": 100, "daDat": false }
+        ]
+    },
+    {
+       
+        "danhSachGhe": [
+            { "soGhe": "9", "gia": 100, "daDat": false },
+            { "soGhe": "10", "gia": 100, "daDat": false },
+            { "soGhe": "11", "gia": 100, "daDat": false },
+            { "soGhe": "12", "gia": 100, "daDat": false }
+
+        ]
+    }, {
+       
+        "danhSachGhe": [
+            { "soGhe": "13", "gia": 100, "daDat": false },
+            { "soGhe": "14", "gia": 100, "daDat": false },
+            { "soGhe": "15", "gia": 100, "daDat": false },
+            { "soGhe": "16", "gia": 100, "daDat": false }
+
+        ]
+    }, {
+       
+        "danhSachGhe": [
+            { "soGhe": "17", "gia": 100, "daDat": false },
+            { "soGhe": "18", "gia": 100, "daDat": false },
+            { "soGhe": "19", "gia": 100, "daDat": false },
+            { "soGhe": "20", "gia": 100, "daDat": false }
+
+        ]
+    }, {
+      
+        "danhSachGhe": [
+            { "soGhe": "21", "gia": 100, "daDat": false },
+            { "soGhe": "22", "gia": 100, "daDat": false },
+            { "soGhe": "23", "gia": 100, "daDat": false },
+            { "soGhe": "24", "gia": 100, "daDat": false }
+
+        ]
+    }, {
+    
+        "danhSachGhe": [
+            { "soGhe": "25", "gia": 100, "daDat": false },
+            { "soGhe": "26", "gia": 100, "daDat": false },
+            { "soGhe": "26", "gia": 100, "daDat": false },
+            { "soGhe": "27", "gia": 100, "daDat": false }
+
+        ]
+    }, {
+    
+        "danhSachGhe": [
+            { "soGhe": "28", "gia": 100, "daDat": false },
+            { "soGhe": "29", "gia": 100, "daDat": false },
+            { "soGhe": "30", "gia": 100, "daDat": false },
+            { "soGhe": "31", "gia": 100, "daDat": false }
+
+        ]
+    }, {
+      
+        "danhSachGhe": [
+            { "soGhe": "32", "gia": 100, "daDat": false },
+            { "soGhe": "33", "gia": 100, "daDat": false },
+            { "soGhe": "34", "gia": 100, "daDat": false },
+            { "soGhe": "35", "gia": 100, "daDat": false }
+
+
+        ]
+    }
+
+]
